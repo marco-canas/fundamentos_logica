@@ -1,21 +1,22 @@
 digraph {
 	A [label="Los elementos de la Lógica"]
-	B [label=""]
-	C [label=""]
-	D [label=""]
-	E [label=""]
-	F [label=""]
-	G [label=""]
-	H [label=""]
-	I [label=""]
-	J [label=""]
+	B [label="Proposiciones Simples"]
+	C [label="Proposiciones Compuestas"]
+	D [label="Conectores Lógicos"]
+	E [label="Conector AND"]
+	F [label="Conector OR"]
+	G [label="Conector NOT"]
+	H [label="Conector IMPLIES"]
+	I [label="Tablas de Verdad"]
+	J [label="Ejemplos de Proposiciones"]
 	A -> B
 	A -> C
 	C -> D
-	D -> J
-	E -> F
-	F -> G
-	G -> H
-	H -> I
-	I -> J
+	D -> E
+	D -> F
+	D -> G
+	D -> H
+	C -> I
+	B -> J
+	C -> J
 }
