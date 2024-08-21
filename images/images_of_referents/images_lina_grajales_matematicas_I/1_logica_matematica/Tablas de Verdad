@@ -9,15 +9,13 @@ digraph {
 	H [label=Negaciones]
 	I [label="Estructura de la Tabla de Verdad"]
 	J [label="Combinaciones de Valores"]
-	K [label="Negación"]
 	A -> B
-	B -> K
 	A -> C
 	B -> D
+	B -> H
 	B -> E
 	B -> F
 	B -> G
-	C -> H
 	C -> I
 	I -> J
 }
