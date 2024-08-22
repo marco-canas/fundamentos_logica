@@ -1,0 +1,22 @@
+digraph {
+	A [label="La implicación como relación de causalidad"]
+	B [label="Definición de Implicación"]
+	C [label="Causalidad en Implicación"]
+	D [label="Implicación Lógica con Python"]
+	E [label="Evaluación con Tablas de Verdad"]
+	F [label="Implicación en la Casio 991"]
+	G [label="Construcción de Ejemplos"]
+	H [label="Tautologías y Contradicciones"]
+	I [label="Práctica en Python"]
+	J [label="Conclusión y Reflexión"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	A -> G
+	A -> H
+	A -> I
+	A -> I
+	I -> J
+}
