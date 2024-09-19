@@ -9,21 +9,33 @@ digraph {
  identidad"]
 	L1 [label="Ley de 
  no contradicción"]
-	L2 [label="Ley del tercero excluido"]
-	L3 [label="Ley de doble negación"]
-	L4 [label="Ley de idempotencia"]
-	L5 [label="Ley de conmutatividad"]
-	L6 [label="Ley de asociatividad"]
-	L7 [label="Ley de distributividad"]
-	L8 [label="Ley de absorción"]
-	L9 [label="Ley de identidad"]
-	L10 [label="Ley de negación"]
-	L11 [label="Ley de De Morgan"]
+	L2 [label="Ley del 
+ tercero excluido"]
+	L3 [label="Ley de 
+ doble negación"]
+	L4 [label="Ley de 
+ idempotencia"]
+	L5 [label="Ley de 
+ conmutatividad"]
+	L6 [label="Ley de 
+ asociatividad"]
+	L7 [label="Ley de 
+ distributividad"]
+	L8 [label="Ley de 
+ absorción"]
+	L9 [label="Ley de 
+ identidad"]
+	L10 [label="Ley de 
+ negación"]
+	L11 [label="Ley de 
+ De Morgan"]
 	R0 [label="Modus 
  Ponendo 
  Ponens"]
-	R1 [label="Modus Tollendo Tollens"]
-	R2 [label="Silogismo Disyuntivo"]
+	R1 [label="Modus 
+ Tollendo Tollens"]
+	R2 [label="Silogismo 
+ Disyuntivo"]
 	R3 [label="Silogismo Hipotético"]
 	R4 [label="Dilema Constructivo"]
 	R5 [label="Dilema Destructivo"]
@@ -36,17 +48,17 @@ digraph {
 	A -> B
 	A -> C
 	B -> L0
-	B -> L1
-	B -> L2
-	B -> L3
-	B -> L4
-	B -> L5
-	B -> L6
-	B -> L7
-	B -> L8
-	B -> L9
-	B -> L10
-	B -> L11
+	L0 -> L1
+	L1 -> L2
+	L2 -> L3
+	L3 -> L4
+	L4 -> L5
+	L5 -> L6
+	L6 -> L7
+	L7 -> L8
+	L8 -> L9
+	L9 -> L10
+	L10 -> L11
 	C -> R0
 	C -> R1
 	C -> R2
