@@ -1,0 +1,25 @@
+digraph {
+	A [label="Teoría de Conjuntos" fillcolor=lightblue shape=box style=filled]
+	B [label="Definición de Conjunto" fillcolor=lightyellow shape=ellipse style=filled]
+	C [label="Pertenencia de Elementos" fillcolor=lightyellow shape=ellipse style=filled]
+	D [label="Representación en Python" fillcolor=lightyellow shape=ellipse style=filled]
+	E [label="Operaciones con Conjuntos" fillcolor=lightyellow shape=ellipse style=filled]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	B1 [label="Ejemplos de Conjuntos" fillcolor=lightgray shape=box style=filled]
+	B2 [label="Notación ($\\in$ y $\\notin$)" fillcolor=lightgray shape=box style=filled]
+	B -> B1
+	B -> B2
+	C1 [label="Uso de Listas y Sets en Python" fillcolor=lightgray shape=box style=filled]
+	C -> C1
+	D1 [label="Visualización con Matplotlib y Plotly" fillcolor=lightgray shape=box style=filled]
+	D2 [label="Diagramas de Venn" fillcolor=lightgray shape=box style=filled]
+	D -> D1
+	D -> D2
+	E1 [label="Unión, Intersección, Diferencia" fillcolor=lightgray shape=box style=filled]
+	E2 [label="Manipulación de Conjuntos con Python" fillcolor=lightgray shape=box style=filled]
+	E -> E1
+	E -> E2
+}
