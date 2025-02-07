@@ -12,7 +12,7 @@ Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** sigui
 - **Programa académico al que pertenece:** Licenciatura en Matemáticas  
 - **Programa(s) académico(s) a los cuales se ofrece el curso:** Licenciatura en Matemáticas  
 - **Vigencia:** 2025-1  
-- **Código del curso:** (Código en MARES)  
+- **Código del curso:** 2096532  
 - **Nombre del curso:** Fundamentos de Matemáticas  
 - **Tipo de curso:** Obligatorio  
 - **Clase de curso:** Teórico-práctico  
