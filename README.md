@@ -11,7 +11,7 @@ Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** sigui
 - **Unidad Académica:** Facultad de Educación  
 - **Programa académico al que pertenece:** Licenciatura en Matemáticas  
 - **Programa(s) académico(s) a los cuales se ofrece el curso:** Licenciatura en Matemáticas  
-- **Vigencia:** 2024-2  
+- **Vigencia:** 2025-1  
 - **Código del curso:** (Código en MARES)  
 - **Nombre del curso:** Fundamentos de Matemáticas  
 - **Tipo de curso:** Obligatorio  
@@ -21,15 +21,15 @@ Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** sigui
 - **Nombre del área, núcleo o componente de la organización curricular a la que pertenece el curso:** Matemáticas Fundamentales  
 
 ### **Pre-requisitos y Co-requisitos**  
-- **Pre-requisitos:** Lógica y teoría de conjuntos (Código en MARES)  
+- **Pre-requisitos:**   
 - **Co-requisitos:** Ninguno  
 
 ### **Créditos y horas semanales**  
 - **Número de créditos académicos:** 3  
-- **Horas semanales de interacción estudiante-profesor:** 3  
-- **Horas semanales de trabajo independiente:** 6  
-- **Horas semanales de actividades académicas teóricas:** 2  
-- **Horas semanales de actividades académicas prácticas:** 1  
+- **Horas semanales de interacción estudiante-profesor:** 4  
+- **Horas semanales de trabajo independiente:** 4  
+- **Horas semanales de actividades académicas teóricas:** 4  
+- **Horas semanales de actividades académicas prácticas:** 4  
 - **Horas totales del curso en el semestre:** 144  
 
 ---
@@ -138,12 +138,12 @@ Resolución de ejercicios y discusión de problemas tomados del texto *Matemáti
 ---
 
 ## **COMUNIDAD ACADÉMICA QUE PARTICIPÓ EN LA ELABORACIÓN DEL MICROCURRÍCULO**  
-- **Marco Julio Canas** – Docente Universidad de Antioquia  
+- **Marco Julio Cañas Campillo** – Docente Investigador de la Universidad de Antioquia  
 - **Equipo de profesores de la Licenciatura en Matemáticas**  
 
 ---
 
-Este diseño del curso sigue el formato del documento que proporcionaste y está alineado con los enfoques metodológicos que promueves. 🚀
+Este diseño del curso sigue el formato de Microcurrículo de la Universidad de Antioquia y está alineado con los enfoques metodológicos de Aula Invertida, STEAMS y ABPP. 
 
 # Referentes
 
