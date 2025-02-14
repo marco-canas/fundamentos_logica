@@ -149,3 +149,4 @@ Este diseño del curso sigue el formato de Microcurrículo de la Universidad de 
 
 [Matemáticas I para ciencias económicas](https://bibliotecadigital.udea.edu.co/handle/10495/3010)
 [Descarga directa Matemáticas I](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bibliotecadigital.udea.edu.co/bitstream/10495/3010/5/GrajalesLina_2015_MatemticasCienciasEconmicas.pdf)
+[Lista de reproducción en YouTube del curso de fundamentos de la lógica](https://studio.youtube.com/playlist/PLbk60veMSVKurzdEdvmiO947VJsPMgkaW/edit)
