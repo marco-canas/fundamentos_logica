@@ -1,7 +1,0 @@
-digraph {
-	A [label="Métodos de demostración"]
-	B [label=""]
-	C [label=""]
-	D [label=""]
-	A -> B
-}
