@@ -43,8 +43,6 @@ Evaluar si la integración de Aula Invertida, STEAMS y ABPP, mediada por herrami
 
 ### **4. Metodología (IAE: Ciclos de Planificación-Acción-Observación-Reflexión)**  
 
-path_metodologia = "C:\Users\marco\Documentos\docencia\fundamentos_logica\2_diseno_investivacion_educativa\metodologia"
-
 #### **Ciclo 1: Diagnóstico y Planificación**  
 - **Participantes:**  
   - 30 estudiantes de Quinto Semestre de la Licenciatura en Matemáticas (Caucasia).  
