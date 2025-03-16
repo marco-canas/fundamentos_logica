@@ -1,0 +1,14 @@
+digraph {
+	bgcolor=lightgray
+	A [label="Lógica Matemática" fillcolor=lightblue shape=box style=filled]
+	B [label=Proposiciones fillcolor=yellow shape=ellipse style=filled]
+	C [label="Conectores Lógicos" fillcolor=orange shape=diamond style=filled]
+	D [label="Tablas de Verdad" fillcolor=lightgreen shape=hexagon style=filled]
+	E [label="Leyes de la Lógica" fillcolor=pink shape=parallelogram style=filled]
+	F [label="Representación Computacional" fillcolor=cyan shape=octagon style=filled]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+}
