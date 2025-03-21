@@ -1,3 +1,5 @@
+# Investigación Educativa en el curso de Fundamentos de Lógica
+
 # Programa del Curso de fundamentos_logica  
 
 Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** siguiendo el formato del archivo proporcionado y basado en tus enfoques de enseñanza (Aula invertida, STEAMS y ABPP), así como los recursos de tu repositorio de GitHub y canal de YouTube.  
@@ -118,11 +120,20 @@ Resolución de ejercicios y discusión de problemas tomados del texto *Matemáti
 - **Estrategias de evaluación:**  
   - Análisis de problemas y ejercicios individuales y en grupo.  
   - Presentaciones de proyectos y modelos matemáticos en Jupyter Notebooks.  
-  - Exámenes teóricos y prácticos.  
+  - Exámenes teóricos y prácticos.
+ 
+     
 - **Momentos de la evaluación:**  
-  - Primer parcial: 30%  
-  - Segundo parcial: 30%  
-  - Proyecto final: 30%  
+  - Primer parcial:   
+  - Segundo parcial: 
+  - Tercer Parcial:
+  - Cuarto Parcial: 
+  - Proyecto 1 Marzo: Dos videos(Uno sobre representación de un operador lógico como circuito eléctico,
+    y otro sobre presentación del operador con Google Colab diferenciando la notación aditiva de la notación
+    multiplicativa)
+  - Proyecto 2 Abril:
+  - Proyecto 3 Mayo:
+  - Proyecto 4 Junio:   
   - Participación en talleres y actividades en GitHub/YouTube: 10%  
 
 ---
