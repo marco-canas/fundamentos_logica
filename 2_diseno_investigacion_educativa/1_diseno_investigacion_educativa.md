@@ -49,9 +49,9 @@ Evaluar si la integración de Aula Invertida, STEAMS y ABPP, mediada por herrami
   - Docente-investigador y 2 observadores externos (validación).  
 
 - **Instrumentos de Diagnóstico:**  
-  - Prueba inicial de conocimientos en Lógica (pretest).  
-  - Encuesta sobre experiencia previa con herramientas tecnológicas (Google Forms).  
-  - Análisis de resultados históricos del curso.  
+    1. Prueba inicial de conocimientos en Lógica (pretest).  
+    2. Encuesta sobre experiencia previa con herramientas tecnológicas (Google Forms).  
+    3. Análisis de resultados históricos del curso.  
 
 - **Planificación:**  
   - Diseño de secuencias didácticas integrando:  
