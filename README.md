@@ -165,4 +165,16 @@ Este diseño del curso sigue el formato de Microcurrículo de la Universidad de 
 # Gestión de la evaluación por fechas  
 
 ## Proyectos
-* Proyecto 1: Completar con el video en Google Colab hasta el 29 de marzo. 
+* Proyecto 1: Completar con el video en Google Colab hasta el 29 de marzo.
+
+# Contactos de los coordinadores asociados a Licenciatura en Matemáticas  
+
+1. Andrés Vélez: regioneducacion.fedu@udea.edu.co  
+   Coordinador Regiones  
+   Facultad de Educación  
+   Universidad de Antioquia
+2. maria.geney@udea.edu.co  Coordinadora Académica Campus Caucasia
+3. zaida.santa@udea.edu.co  Coordinadora del programa de Licenciatura en Matemáticas en Medellín.
+
+   
+   
