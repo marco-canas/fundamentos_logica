@@ -170,9 +170,54 @@ Este diseño del curso sigue el formato de Microcurrículo de la Universidad de 
 # Condiciones: Para estudiantes que superen el límite máximo de faltas de asistencia
 
 1. Se les calificará cada item del acuerdo evaluativo registrado en mares sobre 3.0.
-2. 
+2. Debe entregar la lectura interactiva y experimental de todos los cuadernos de clase correspondientes a los días faltados (Debe entregar esta lectura grabaja en vídeo y
+   publicada en su canal de YouTube).
+4. Debe entregar la solución de las tareas, actividades de aprendizaje y evaluaciones de todos los cuadernos Jupyter correspondientes a los días faltados. 
 
-# Condiciones: Contactos de los coordinadores asociados a Licenciatura en Matemáticas  
+# Qué se entiende por lectura interactiva y experimental de los cuadernos Jupyter correspoondientes a cada clase  
+
+La **lectura interactiva y experimental** de los cuadernos Jupyter diseñados para el curso de **Fundamentos de Lógica** implica un enfoque dinámico y práctico para el aprendizaje, donde los estudiantes no solo consumen información teórica, sino que también interactúan con el contenido, modifican ejemplos, ejecutan código y experimentan con los conceptos lógicos en un entorno computacional. A continuación, se detallan las características clave de este enfoque:
+
+---
+
+### **1. Lectura Interactiva**  
+- **Manipulación directa del contenido**: Los estudiantes pueden ejecutar celdas de código, modificar fórmulas lógicas o ejemplos, y observar cómo cambian los resultados en tiempo real.  
+- **Visualización interactiva**: Uso de gráficos, diagramas (como árboles semánticos o tablas de verdad) o herramientas que respondan a entradas del usuario para ilustrar conceptos como validez, consistencia o inferencia.  
+- **Retroalimentación inmediata**: Los cuadernos pueden incluir ejercicios con autoevaluación (ejecutando código que verifica soluciones) o explicaciones emergentes al resolver problemas.  
+
+---
+
+### **2. Lectura Experimental**  
+- **Aprendizaje basado en prueba y error**: Los estudiantes pueden "jugar" con estructuras lógicas (por ejemplo, modificar conectores en una fórmula proposicional y ver cómo afecta su tabla de verdad).  
+- **Simulación de escenarios**: Por ejemplo, modelar argumentos en lógica de primer orden y evaluar su corrección mediante ejecución de código (usando librerías como `sympy` o herramientas ad-hoc).  
+- **Exploración guiada y abierta**: Se incluyen secciones con consignas del tipo *"¿Qué pasa si cambias este axioma?"* o *"Intenta construir un contraejemplo"* para fomentar la curiosidad.  
+
+---
+
+### **3. Componentes clave de los cuadernos**  
+- **Fragmentos de código ejecutable**: Para evaluar expresiones lógicas, automatizar pruebas o implementar algoritmos (ej: verificación de tautologías).  
+- **Celdas con texto teórico y preguntas reflexivas**: Integradas con ejemplos prácticos que requieren intervención activa (ej: *"Define aquí tu propia fórmula y comprueba si es satisfacible"*).  
+- **Enlaces a recursos externos**: Como demostradores en línea o lecturas complementarias para profundizar.  
+
+---
+
+### **4. Beneficios pedagógicos**  
+- **Enganche activo**: Combina teoría y práctica sin salir del entorno digital.  
+- **Personalización**: Los estudiantes pueden ajustar el ritmo y profundidad de su aprendizaje.  
+- **Preparación para aplicaciones reales**: Familiariza a los estudiantes con herramientas usadas en investigación (ej: Python para lógica simbólica).  
+
+---
+
+### **Ejemplo concreto**  
+Un cuaderno podría incluir:  
+1. Una explicación de *modus ponens* con una fórmula predefinida (`p → q`, `p`, luego `q`).  
+2. Una celda interactiva donde el estudiante modifique `p` o `q` y observe cómo falla la regla si las premisas cambian.  
+3. Un ejercicio para programar un verificador de *modus ponens* usando diccionarios de Python.  
+
+Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangible y adaptable.
+
+
+# Contactos de los coordinadores asociados a Licenciatura en Matemáticas  
 
 1. Andrés Vélez: regioneducacion.fedu@udea.edu.co  
    Coordinador Regiones  
