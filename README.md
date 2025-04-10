@@ -167,7 +167,12 @@ Este diseño del curso sigue el formato de Microcurrículo de la Universidad de 
 ## Proyectos
 * Proyecto 1: Completar con el video en Google Colab hasta el 29 de marzo.
 
-# Contactos de los coordinadores asociados a Licenciatura en Matemáticas  
+# Condiciones: Para estudiantes que superen el límite máximo de faltas de asistencia
+
+1. Se les calificará cada item del acuerdo evaluativo registrado en mares sobre 3.0.
+2. 
+
+# Condiciones: Contactos de los coordinadores asociados a Licenciatura en Matemáticas  
 
 1. Andrés Vélez: regioneducacion.fedu@udea.edu.co  
    Coordinador Regiones  
