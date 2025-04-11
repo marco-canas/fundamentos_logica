@@ -164,8 +164,22 @@ Este diseño del curso sigue el formato de Microcurrículo de la Universidad de 
 
 # Gestión de la evaluación por fechas  
 
-## Proyectos
+## Proyectos  
+
 * Proyecto 1: Completar con el video en Google Colab hasta el 29 de marzo.
+* Proyecto 2: 11 de abril de 2025 (Viernes) Debe entregar un video de sustentación de su proyecto en los que deben participar todos los integrantes del equipo. No se valora al que no presente.
+* Proyecto 3: 11 de mayo.
+* Proyecto 4: 11 de Junio.
+
+**Advertencia:** Por cada quince días de demora en la presentación de un proyecto, la nota máxima o cota de valoración baja en una unidad. 
+
+## Parciales  
+
+* **Parcial 1:** Entrega en video y editado solo en Google Colab. Fecha límite 25 de abril de 2025 (Viernes)
+* **Parcial 2:** Realización escrita y de manera presencial, para evaluar los temas de Lógica proposicional, reglas de la lógica y reglas de inferencia.
+
+**Nota importante sobre los parciales:** Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.  
+
 
 # Condiciones: Para estudiantes que superen el límite máximo de faltas de asistencia
 
