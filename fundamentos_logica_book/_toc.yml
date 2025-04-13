@@ -1,5 +1,5 @@
 format: jb-book
-root: 3_programa_curso/1_programa_logica
+root: fundamentos_logica_book/1_programa_logica.md
 chapters:
   - file: 4_clases/1_logica_matematica_y_teoria_de_conjuntos/chapter_1.md
   - file: 4_clases/2_inferencias_metodos_demostracion/chapter_2.md
