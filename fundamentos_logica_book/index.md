@@ -2,4 +2,5 @@
 
 Bienvenido al libro de Fundamentos de Lógica.
 
-```toc
+```{tableofcontents}
+:caption: Contenidos

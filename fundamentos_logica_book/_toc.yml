@@ -1,6 +1,8 @@
 format: jb-book
-root: index  # Debe coincidir con el master_doc
+root: index
 chapters:
 - file: intro
 - file: notebooks
 - file: markdown-notebooks
+- file: 1_programa_logica  # Añade esta línea
+- file: markdown  # Añade esta línea si es necesario
