@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: 3_programa_curso/1_programa_logica
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: 4_clases/1_logica_matematica_y_teoria_de_conjuntos
+- file: 4_clases/2_inferencias_metodos_demostracion
+- file: 4_clases/3_conjuntos
