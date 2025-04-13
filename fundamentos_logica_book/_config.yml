@@ -34,4 +34,5 @@ html:
 # Configuración mínima requerida
 sphinx:
   config:
-    master_doc: "index"  # o el nombre de tu archivo principal sin extensión
+    master_doc: "index"  # Cambia esto al nombre correcto de tu archivo principal
+    html_theme: "sphinx_book_theme"
