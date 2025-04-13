@@ -1,9 +1,6 @@
-root: README
-entries:
-- file: 2_diseno_investigacion_educativa/1_diseno_investigacion_educativa
-- file: 3_programa_curso/1_programa_logica
-- file: fundamentos_logica_book/intro
-  entries:
-  - file: fundamentos_logica_book/markdown
-  - file: fundamentos_logica_book/markdown-notebooks
-- file: openjdk11-binaries/README
+format: jb-book
+root: 3_programa_curso/1_programa_logica
+chapters:
+  - file: 4_clases/1_logica_matematica_y_teoria_de_conjuntos
+  - file: 4_clases/2_inferencias_metodos_demostracion
+  - file: 4_clases/3_conjuntos
