@@ -3,4 +3,3 @@
 Bienvenido al libro de Fundamentos de Lógica.
 
 ```{tableofcontents}
-:caption: Contenidos

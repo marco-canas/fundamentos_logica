@@ -8,4 +8,8 @@ It does not go in-depth into any particular topic - check out [the Jupyter Book 
 Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
+# Welcome to your Jupyter Book
+# Fundamentos de Lógica
+# Bienvenido al libro de Fundamentos de Lógica.
+1_programa_logica
 ```
