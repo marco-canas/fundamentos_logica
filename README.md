@@ -240,5 +240,17 @@ Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangi
 2. maria.geney@udea.edu.co  Coordinadora Académica Campus Caucasia
 3. zaida.santa@udea.edu.co  Coordinadora del programa de Licenciatura en Matemáticas en Medellín.
 
+
+
+# Gestión de la evaluación en este curso de Fundamentos de las matemáticas  
+
+## Parcial 1  
+
+* El próximo viernes es la fecha límite para entregar el primer parcial en video realizado en Google Colab.
+  
+## Parcial 2
+
+* Se realizará el viernes 25 de abril de 10 a 12 del medio día.
+* El tema es: Lógica proposicional, reglas de de la lógica y reglas de inferencia y el método de demostración directa. 
    
    
