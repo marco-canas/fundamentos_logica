@@ -2,11 +2,10 @@
 
 # Programa del Curso de fundamentos_logica  
 
-Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** siguiendo el formato del archivo proporcionado y basado en tus enfoques de enseñanza (Aula invertida, STEAMS y ABPP), así como los recursos de tu repositorio de GitHub y canal de YouTube.  
+Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** siguiendo el formato del archivo proporcionado y basado en tus enfoques de enseñanza (Aula invertida, STEAMS, Teoría de Registros de Representación Semiótica (TRRS) y ABPP), así como los recursos de tu repositorio de GitHub y canal de YouTube.  
 
----
 
-### **PROGRAMA OFICIAL DE CURSO**  
+## **PROGRAMA OFICIAL DE CURSO**  
 **UNIVERSIDAD DE ANTIOQUIA**  
 
 ### **INFORMACIÓN GENERAL**  
@@ -34,12 +33,10 @@ Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** sigui
 - **Horas semanales de actividades académicas prácticas:** 4  
 - **Horas totales del curso en el semestre:** 144  
 
----
 
 ## **RELACIÓN CON EL PERFIL PROFESIONAL**  
 Este curso contribuye a la formación de los futuros licenciados en matemáticas al proporcionarles herramientas fundamentales de lógica matemática y teoría de conjuntos. Además, fomenta el desarrollo del pensamiento lógico, el razonamiento abstracto y la capacidad de argumentación rigurosa, esenciales en la enseñanza y aprendizaje de las matemáticas.  
 
----
 
 ## **INTENCIONALIDADES FORMATIVAS**  
 El curso tiene como propósito:  
@@ -48,12 +45,12 @@ El curso tiene como propósito:
 - Fomentar la autonomía del estudiante a través de metodologías como Aula Invertida, STEAMS y Aprendizaje Basado en Problemas y Proyectos (ABPP).  
 - Integrar herramientas digitales como Python y Jupyter Notebooks en el aprendizaje de la lógica matemática y teoría de conjuntos.  
 
----
+
 
 ## **APORTES DEL CURSO A LA FORMACIÓN INTEGRAL Y EN INVESTIGACIÓN**  
 Este curso desarrolla competencias de razonamiento lógico, abstracción y argumentación, esenciales para la formación matemática rigurosa. Además, se enfatiza en la exploración de problemas reales mediante modelado matemático y el uso de herramientas computacionales para la validación de argumentos lógicos.  
 
----
+
 
 ## **DESCRIPCIÓN DE LOS CONOCIMIENTOS Y/O SABERES**  
 
@@ -99,7 +96,6 @@ Introducción al curso y metodología de trabajo. Explicación de Aula Invertida
 ### **Taller de lógica y conjuntos**  
 Resolución de ejercicios y discusión de problemas tomados del texto *Matemáticas I para ciencias económicas* de Lina Grajales y otros recursos complementarios.  
 
----
 
 ## **METODOLOGÍA**  
 
@@ -113,7 +109,7 @@ Resolución de ejercicios y discusión de problemas tomados del texto *Matemáti
   - Resolución de problemas en equipos utilizando herramientas digitales.  
   - Aplicación de la teoría a contextos educativos y científicos mediante proyectos.  
 
----
+
 
 ## **EVALUACIÓN**  
 - **Concepción de evaluación:** Evaluación formativa y sumativa basada en la autoevaluación, coevaluación y heteroevaluación.  
@@ -136,7 +132,7 @@ Resolución de ejercicios y discusión de problemas tomados del texto *Matemáti
   - Proyecto 4 Junio:   
   - Participación en talleres y actividades en GitHub/YouTube: 10%  
 
----
+
 
 ## **BIBLIOGRAFÍA**  
 - Grajales, L. *Matemáticas I para ciencias económicas*.  
@@ -146,15 +142,12 @@ Resolución de ejercicios y discusión de problemas tomados del texto *Matemáti
 - Apostol, T. *Mathematical Analysis*.  
 - Documentación de Python y SymPy para validación de argumentos lógicos.  
 
----
 
 ## **COMUNIDAD ACADÉMICA QUE PARTICIPÓ EN LA ELABORACIÓN DEL MICROCURRÍCULO**  
 - **Marco Julio Cañas Campillo** – Docente Investigador de la Universidad de Antioquia  
 - **Equipo de profesores de la Licenciatura en Matemáticas**  
 
----
 
-Este diseño del curso sigue el formato de Microcurrículo de la Universidad de Antioquia y está alineado con los enfoques metodológicos de Aula Invertida, STEAMS y ABPP. 
 
 # Referentes
 
@@ -162,65 +155,43 @@ Este diseño del curso sigue el formato de Microcurrículo de la Universidad de 
 [Descarga directa Matemáticas I](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bibliotecadigital.udea.edu.co/bitstream/10495/3010/5/GrajalesLina_2015_MatemticasCienciasEconmicas.pdf)
 [Lista de reproducción en YouTube del curso de fundamentos de la lógica](https://studio.youtube.com/playlist/PLbk60veMSVKurzdEdvmiO947VJsPMgkaW/edit)
 
-# Gestión de la evaluación por fechas  
-
-## Proyectos  
-
-* Proyecto 1: Completar con el video en Google Colab hasta el 29 de marzo.
-* Proyecto 2: 11 de abril de 2025 (Viernes) Debe entregar un video de sustentación de su proyecto en los que deben participar todos los integrantes del equipo. No se valora al que no presente.
-* Proyecto 3: 11 de mayo.
-* Proyecto 4: 11 de Junio.
-
-**Advertencia:** Por cada quince días de demora en la presentación de un proyecto, la nota máxima o cota de valoración baja en una unidad. 
-
-## Parciales  
-
-* **Parcial 1:** Entrega en video y editado solo en Google Colab. Fecha límite 25 de abril de 2025 (Viernes)
-* **Parcial 2:** Realización escrita y de manera presencial, para evaluar los temas de Lógica proposicional, reglas de la lógica y reglas de inferencia.
-
-**Nota importante sobre los parciales:** Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.  
 
 
-# Condiciones: Para estudiantes que superen el límite máximo de faltas de asistencia
 
-1. Se les calificará cada item del acuerdo evaluativo registrado en mares sobre 3.0.
-2. Debe entregar la lectura interactiva y experimental de todos los cuadernos de clase correspondientes a los días faltados (Debe entregar esta lectura grabaja en vídeo y
-   publicada en su canal de YouTube).
-4. Debe entregar la solución de las tareas, actividades de aprendizaje y evaluaciones de todos los cuadernos Jupyter correspondientes a los días faltados. 
+
+
+
+
 
 # Qué se entiende por lectura interactiva y experimental de los cuadernos Jupyter correspoondientes a cada clase  
 
 La **lectura interactiva y experimental** de los cuadernos Jupyter diseñados para el curso de **Fundamentos de Lógica** implica un enfoque dinámico y práctico para el aprendizaje, donde los estudiantes no solo consumen información teórica, sino que también interactúan con el contenido, modifican ejemplos, ejecutan código y experimentan con los conceptos lógicos en un entorno computacional. A continuación, se detallan las características clave de este enfoque:
 
----
 
 ### **1. Lectura Interactiva**  
 - **Manipulación directa del contenido**: Los estudiantes pueden ejecutar celdas de código, modificar fórmulas lógicas o ejemplos, y observar cómo cambian los resultados en tiempo real.  
 - **Visualización interactiva**: Uso de gráficos, diagramas (como árboles semánticos o tablas de verdad) o herramientas que respondan a entradas del usuario para ilustrar conceptos como validez, consistencia o inferencia.  
 - **Retroalimentación inmediata**: Los cuadernos pueden incluir ejercicios con autoevaluación (ejecutando código que verifica soluciones) o explicaciones emergentes al resolver problemas.  
 
----
 
 ### **2. Lectura Experimental**  
 - **Aprendizaje basado en prueba y error**: Los estudiantes pueden "jugar" con estructuras lógicas (por ejemplo, modificar conectores en una fórmula proposicional y ver cómo afecta su tabla de verdad).  
 - **Simulación de escenarios**: Por ejemplo, modelar argumentos en lógica de primer orden y evaluar su corrección mediante ejecución de código (usando librerías como `sympy` o herramientas ad-hoc).  
 - **Exploración guiada y abierta**: Se incluyen secciones con consignas del tipo *"¿Qué pasa si cambias este axioma?"* o *"Intenta construir un contraejemplo"* para fomentar la curiosidad.  
 
----
+
 
 ### **3. Componentes clave de los cuadernos**  
 - **Fragmentos de código ejecutable**: Para evaluar expresiones lógicas, automatizar pruebas o implementar algoritmos (ej: verificación de tautologías).  
 - **Celdas con texto teórico y preguntas reflexivas**: Integradas con ejemplos prácticos que requieren intervención activa (ej: *"Define aquí tu propia fórmula y comprueba si es satisfacible"*).  
 - **Enlaces a recursos externos**: Como demostradores en línea o lecturas complementarias para profundizar.  
 
----
 
 ### **4. Beneficios pedagógicos**  
 - **Enganche activo**: Combina teoría y práctica sin salir del entorno digital.  
 - **Personalización**: Los estudiantes pueden ajustar el ritmo y profundidad de su aprendizaje.  
 - **Preparación para aplicaciones reales**: Familiariza a los estudiantes con herramientas usadas en investigación (ej: Python para lógica simbólica).  
 
----
 
 ### **Ejemplo concreto**  
 Un cuaderno podría incluir:  
@@ -240,17 +211,52 @@ Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangi
 2. maria.geney@udea.edu.co  Coordinadora Académica Campus Caucasia
 3. zaida.santa@udea.edu.co  Coordinadora del programa de Licenciatura en Matemáticas en Medellín.
 
+# Gestión de la asistencia  
+
+# Condiciones: Para estudiantes que superen el límite máximo de faltas de asistencia
+
+   1. Se les calificará cada item del acuerdo evaluativo registrado en mares sobre 3.0.
+   2. Debe entregar la lectura interactiva y experimental de todos los cuadernos de clase correspondientes a los días faltados (Debe entregar esta lectura grabaja
+      en vídeo y publicada en su canal de YouTube).
+   3. Debe entregar la solución de las tareas, actividades de aprendizaje y evaluaciones de todos los cuadernos Jupyter correspondientes a los días faltados. 
 
 
 # Gestión de la evaluación en este curso de Fundamentos de las matemáticas  
 
 ## Parcial 1  
 
-* El próximo viernes es la fecha límite para entregar el primer parcial en video realizado en Google Colab.
-  
+   * El Video correspondiente al parcial 1 asignado tiene como fecha límite el sábado 3 de mayo de 2025. Debe se presentado con la metodolgía de lectura interactiva en video realizado
+     en Google Colab.
+
+       
 ## Parcial 2
 
-* Se realizará el viernes 25 de abril de 10 a 12 del medio día.
-* El tema es: Lógica proposicional, reglas de de la lógica y reglas de inferencia y el método de demostración directa. 
-   
-   
+   * Se realizará el viernes 25 de abril de 10 a 12 del medio día.
+   * El tema es: Lógica proposicional, reglas de de la lógica y reglas de inferencia y el método de demostración directa.
+   * Realización escrita y de manera presencial, para evaluar los temas de Lógica proposicional, reglas de la lógica y reglas de inferencia.
+
+ 
+**Nota importante sobre los parciales:** Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.  
+
+
+## Normas para la presentación de parciales   
+
+ * Si en algún punto del parcial hay varios estudiantes con la misma respuesta, el punto no se le valorará a ninguno. 
+
+# Proyectos  
+
+* **Proyecto 1**:
+  
+    - Primera parte del proyecto 1: Facha de entrega: 7 de marzo. 
+    - Completar con el video en Google Colab hasta el 29 de marzo.
+  
+* **Proyecto 2**: 11 de abril de 2025 (Viernes) Debe entregar un video de sustentación de su proyecto en los que deben participar todos los integrantes del equipo. No se valora al que no presente.
+  
+* **Proyecto 3:** 11 de mayo.
+  
+* **Proyecto 4:** 11 de Junio.   
+
+## Normas para la presentación de proyectos: 
+
+   * Solo se valora a los estudiantes que hayan participado en el video de presentación.
+   * **Advertencia:** Por cada quince días de demora en la presentación de un proyecto, la nota máxima o cota de valoración baja en una unidad. 
