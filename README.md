@@ -4,9 +4,8 @@
 
 Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** siguiendo el formato del archivo proporcionado y basado en tus enfoques de enseñanza (Aula invertida, STEAMS y ABPP), así como los recursos de tu repositorio de GitHub y canal de YouTube.  
 
----
 
-### **PROGRAMA OFICIAL DE CURSO**  
+## **PROGRAMA OFICIAL DE CURSO**  
 **UNIVERSIDAD DE ANTIOQUIA**  
 
 ### **INFORMACIÓN GENERAL**  
@@ -39,7 +38,6 @@ Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** sigui
 ## **RELACIÓN CON EL PERFIL PROFESIONAL**  
 Este curso contribuye a la formación de los futuros licenciados en matemáticas al proporcionarles herramientas fundamentales de lógica matemática y teoría de conjuntos. Además, fomenta el desarrollo del pensamiento lógico, el razonamiento abstracto y la capacidad de argumentación rigurosa, esenciales en la enseñanza y aprendizaje de las matemáticas.  
 
----
 
 ## **INTENCIONALIDADES FORMATIVAS**  
 El curso tiene como propósito:  
@@ -99,7 +97,6 @@ Introducción al curso y metodología de trabajo. Explicación de Aula Invertida
 ### **Taller de lógica y conjuntos**  
 Resolución de ejercicios y discusión de problemas tomados del texto *Matemáticas I para ciencias económicas* de Lina Grajales y otros recursos complementarios.  
 
----
 
 ## **METODOLOGÍA**  
 
@@ -146,7 +143,6 @@ Resolución de ejercicios y discusión de problemas tomados del texto *Matemáti
 - Apostol, T. *Mathematical Analysis*.  
 - Documentación de Python y SymPy para validación de argumentos lógicos.  
 
----
 
 ## **COMUNIDAD ACADÉMICA QUE PARTICIPÓ EN LA ELABORACIÓN DEL MICROCURRÍCULO**  
 - **Marco Julio Cañas Campillo** – Docente Investigador de la Universidad de Antioquia  
@@ -162,23 +158,10 @@ Este diseño del curso sigue el formato de Microcurrículo de la Universidad de 
 [Descarga directa Matemáticas I](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bibliotecadigital.udea.edu.co/bitstream/10495/3010/5/GrajalesLina_2015_MatemticasCienciasEconmicas.pdf)
 [Lista de reproducción en YouTube del curso de fundamentos de la lógica](https://studio.youtube.com/playlist/PLbk60veMSVKurzdEdvmiO947VJsPMgkaW/edit)
 
-# Gestión de la evaluación por fechas  
 
-## Proyectos  
-
-* Proyecto 1: Completar con el video en Google Colab hasta el 29 de marzo.
-* Proyecto 2: 11 de abril de 2025 (Viernes) Debe entregar un video de sustentación de su proyecto en los que deben participar todos los integrantes del equipo. No se valora al que no presente.
-* Proyecto 3: 11 de mayo.
-* Proyecto 4: 11 de Junio.
 
 **Advertencia:** Por cada quince días de demora en la presentación de un proyecto, la nota máxima o cota de valoración baja en una unidad. 
 
-## Parciales  
-
-* **Parcial 1:** Entrega en video y editado solo en Google Colab. Fecha límite 25 de abril de 2025 (Viernes)
-* **Parcial 2:** Realización escrita y de manera presencial, para evaluar los temas de Lógica proposicional, reglas de la lógica y reglas de inferencia.
-
-**Nota importante sobre los parciales:** Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.  
 
 
 # Condiciones: Para estudiantes que superen el límite máximo de faltas de asistencia
@@ -246,11 +229,39 @@ Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangi
 
 ## Parcial 1  
 
-* El próximo viernes es la fecha límite para entregar el primer parcial en video realizado en Google Colab.
-  
+   * El próximo viernes es la fecha límite para entregar el primer parcial en video realizado en Google Colab.
+
+   * Entrega en video y editado solo en Google Colab. Fecha límite 25 de abril de 2025 (Viernes)
+     
 ## Parcial 2
 
-* Se realizará el viernes 25 de abril de 10 a 12 del medio día.
-* El tema es: Lógica proposicional, reglas de de la lógica y reglas de inferencia y el método de demostración directa. 
-   
-   
+   * Se realizará el viernes 25 de abril de 10 a 12 del medio día.
+   * El tema es: Lógica proposicional, reglas de de la lógica y reglas de inferencia y el método de demostración directa.
+   * Realización escrita y de manera presencial, para evaluar los temas de Lógica proposicional, reglas de la lógica y reglas de inferencia.
+
+ 
+**Nota importante sobre los parciales:** Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.  
+
+
+### Normas para la presentación de parciales  
+
+    * Si en algún punto del parcial hay varios estudiantes con la misma respuesta, el punto no se le valorará a ninguno. 
+
+# Gestión de la evaluación por fechas  
+
+## Proyectos  
+
+* **Proyecto 1**:
+  
+    - Primera parte del proyecto 1: Facha de entrega: 7 de marzo. 
+    - Completar con el video en Google Colab hasta el 29 de marzo.
+  
+* **Proyecto 2**: 11 de abril de 2025 (Viernes) Debe entregar un video de sustentación de su proyecto en los que deben participar todos los integrantes del equipo. No se valora al que no presente.
+  
+* **Proyecto 3:** 11 de mayo.
+  
+* **Proyecto 4:** 11 de Junio.   
+
+## Normas para la presentación de proyectos: 
+
+   * Solo se valora a los estudiantes que hayan participado en el video de presentación. 
