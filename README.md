@@ -225,10 +225,10 @@ Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangi
 
 ## Parcial 1  
 
-   * El próximo viernes es la fecha límite para entregar el primer parcial en video realizado en Google Colab.
+   * El Video correspondiente al parcial 1 asignado tiene como fecha límite el sábado 3 de mayo de 2025. Debe se presentado con la metodolgía de lectura interactiva en video realizado
+     en Google Colab.
 
-   * Entrega en video y editado solo en Google Colab. Fecha límite 25 de abril de 2025 (Viernes)
-     
+       
 ## Parcial 2
 
    * Se realizará el viernes 25 de abril de 10 a 12 del medio día.
@@ -239,9 +239,9 @@ Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangi
 **Nota importante sobre los parciales:** Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.  
 
 
-### Normas para la presentación de parciales  
+## Normas para la presentación de parciales   
 
-    * Si en algún punto del parcial hay varios estudiantes con la misma respuesta, el punto no se le valorará a ninguno. 
+ * Si en algún punto del parcial hay varios estudiantes con la misma respuesta, el punto no se le valorará a ninguno. 
 
 # Proyectos  
 
