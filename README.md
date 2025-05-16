@@ -236,7 +236,9 @@ Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangi
    * Realización escrita y de manera presencial, para evaluar los temas de Lógica proposicional, reglas de la lógica y reglas de inferencia.
 
  
-**Nota importante sobre los parciales:** Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.  
+**Nota importante sobre los parciales:** 
+  * Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.
+  * Si dos parciales tienen el desarrollo igual, ambos parciales se califican con nota de cero. 
 
 
 ## Normas para la presentación de parciales   
