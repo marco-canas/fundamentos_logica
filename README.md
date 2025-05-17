@@ -2,7 +2,7 @@
 
 # Programa del Curso de fundamentos_logica  
 
-Este es un diseño del programa de curso **"Fundamentos de Matemáticas"** siguiendo el formato del archivo proporcionado y basado en tus enfoques de enseñanza (Aula invertida, STEAMS, Teoría de Registros de Representación Semiótica (TRRS) y ABPP), así como los recursos de tu repositorio de GitHub y canal de YouTube.  
+Este es un diseño de programa de curso para **"Fundamentos de Matemáticas"** basado en tus enfoques de enseñanza (Aula invertida, STEAMS, Teoría de Registros de Representación Semiótica (TRRS) y ABPP), así como los recursos de tu repositorio de GitHub y canal de YouTube.  
 
 
 ## **PROGRAMA OFICIAL DE CURSO**  
@@ -235,6 +235,12 @@ Este enfoque transforma la lógica (a menudo abstracta) en una experiencia tangi
    * El tema es: Lógica proposicional, reglas de de la lógica y reglas de inferencia y el método de demostración directa.
    * Realización escrita y de manera presencial, para evaluar los temas de Lógica proposicional, reglas de la lógica y reglas de inferencia.
 
+# Parcial 3 sobre Métodos de demostración (Día de presentación 30 de Mayo jueves a las 10 de la mañana)
+  1. Método de demostración directa.
+  2. Método de demostración por contrarrecíproco.
+  3. Método de demostración por reducción al absurdo
+  4. Método de inducción matemática.
+     
  
 **Nota importante sobre los parciales:** 
   * Por cada semana que se retarde en presentar el supletorio, su cota de valoración disminuye en una semana.
