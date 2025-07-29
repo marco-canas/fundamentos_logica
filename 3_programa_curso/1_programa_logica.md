@@ -1,5 +1,6 @@
 # Prompt para el diseño del programa para fundamentos de Lógica  
 
+Dame un diseño de programa de curso para "Fundamentos de Lógica", de la Facultad de Educación de la Universidad de Antioquia, en el Campus Caucasia, con la conjugación de los enfoques: STEAMS  y de aprendizaje basado en problemas y proyectos(ABPP) y Teoría de Registros de Representación Semiótica de Duval; sobre: **" "**, siguiendo la estructura del texto guía; "[Matemáticas Discretas: una perspectiva funcional con Python 3.x](https://ri.ujat.mx/handle/200.500.12107/3942) ". Pues quiero enfocar mi enseñanza a implementar GeoGebra, Crocodrile Clips, Python y circuitos eléctricos y digitales concretos que sirvan de representaciones a los conceptos de Fundamentos de lógica. Ten en cuanta para este diseño, el programa adjunto, para que este nuevo programa sea una mejora.
 
 
 # Programa de Fundamentos de la Lógica  
@@ -17,8 +18,9 @@
 - **Programa académico:** Licenciatura en Matemáticas  
 - **Prerrequisitos:** Ninguno  
 - **Correquisitos:** Cálculo Diferencial  
-- **Profesores:** [Nombre del docente]  
-- **Enfoques pedagógicos:**  
+- **Profesores:** Marco Julio Cañas Campillo  
+- **Enfoques pedagógicos:** 
+  - Aula Invertida     
   - **STEAMS** (Ciencia, Tecnología, Ingeniería, Artes, Matemáticas y Sociedad).  
   - **ABPP** (Aprendizaje Basado en Problemas y Proyectos).  
   - **Teoría de Registros de Representación Semiótica** (Duval).  
