@@ -100,7 +100,7 @@ El curso contribuye a:
 ---
 
 ### **7. Recursos**  
-- **Texto guía:** *"Matemáticas Discretas: una perspectiva funcional con Python 3.x"* (enlace proporcionado).  
+- **Texto guía:** *["Matemáticas Discretas: una perspectiva funcional con Python 3.x](https://ri.ujat.mx/handle/200.500.12107/3942)"* .  
 - **Repositorio GitHub:** Cuadernos Jupyter, ejemplos de circuitos y tutoriales.  
 - **Plataformas:**  
   - GeoGebra Classroom.  
