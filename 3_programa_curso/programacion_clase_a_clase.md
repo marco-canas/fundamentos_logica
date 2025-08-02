@@ -4,8 +4,6 @@ Dame el diseño o programación por clases para el curso de fundamentos de la l�
 
 
 
-Textoo guía: https://ri.ujat.mx/handle/200.500.12107/3942 Matemáticas Discretas de Abdiel Cáceres.   
-
 # **Cronograma Detallado del Curso: Fundamentos de Lógica**  
 **Facultad de Educación – Universidad de Antioquia, Campus Caucasia**  
 **Licenciatura en Matemáticas**  
@@ -14,114 +12,81 @@ Textoo guía: https://ri.ujat.mx/handle/200.500.12107/3942 Matemáticas Discreta
 **Total horas presenciales:** 64 horas (16 semanas)  
 **Inicio:** Lunes 4 de agosto de 2025  
 **Finalización:** Lunes 24 de noviembre de 2025  
+**Texto guía:** *Matemáticas Discretas: una perspectiva funcional con Python 3.x* ([enlace](https://ri.ujat.mx/handle/200.500.12107/3942))  
 
 ---
 
 ## **Estructura General**  
-- **Clases:** 16 sesiones (4 horas cada una).  
-- **Parciales:** 4 evaluaciones (2 horas cada una, integradas en las clases).  
-- **Quices:** 6 evaluaciones cortas (30 minutos cada una, durante las clases).  
-- **Proyectos ABPP:** 4 entregas (según fechas límite del programa adjunto).  
+- **16 sesiones** (4 horas cada una, divididas en: 1h teoría, 2h práctica, 1h evaluación/quices).  
+- **4 parciales** (integrados en las clases, 2 horas cada uno).  
+- **6 quices** (30 minutos cada uno, durante las clases).  
+- **4 proyectos ABPP** (alineados con fechas límite del programa adjunto).  
 
 ---
 
 ## **Cronograma por Semanas**  
 
-### **Semana 1: Introducción a la Lógica Proposicional**  
-**Fecha:** Lunes 4 de agosto de 2025  
-**Contenidos:**  
-- Presentación del curso, enfoques STEAMS y ABPP.  
-- Conceptos básicos: proposiciones, conectivos lógicos (AND, OR, NOT).  
-- **Actividad práctica:** Simulación de tablas de verdad en Python (librería `sympy`).  
-- **Herramientas:** GeoGebra para visualizar conectivos.  
-- **Quiz 1 (30 min):** Identificación de proposiciones y conectivos.  
+### **Módulo 1: Lógica Proposicional y Representaciones**  
+*(Semanas 1-4, basado en Capítulos 1-3 del texto guía)*  
+
+| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
+|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
+| **1**      | 4 ago 2025      | - Introducción a la lógica proposicional (Cap. 1).<br>- Conectivos lógicos: ¬, ∧, ∨, →, ↔.<br>- Tablas de verdad (Python: `sympy`). | - **Quiz 1:** Identificación de proposiciones.<br>- **Práctica:** Tablas de verdad en GeoGebra y Python. |  
+| **2**      | 11 ago 2025     | - Equivalencias lógicas (Cap. 2).<br>- Leyes de De Morgan, tautologías.<br>- Circuitos lógicos (Crocodile Clips). | - **Práctica:** Simulación de compuertas AND/OR/NOT.<br>- **Tarea GitHub:** Ejercicios en Python. |  
+| **3**      | 18 ago 2025     | - Argumentos válidos (Cap. 3).<br>- Métodos de demostración: directa, contradicción.<br>- Aplicaciones en problemas sociales. | - **Quiz 2:** Evaluación de argumentos.<br>- **ABPP Inicio:** Diseño de proyecto (ej: semáforo inteligente). |  
+| **4**      | 25 ago 2025     | - **Parcial 1** (Lógica proposicional + circuitos).<br>- **Entrega Proyecto 1**: Circuito lógico funcional (simulado/físico) + informe. | - Retroalimentación y ajustes a proyectos. |  
 
 ---
 
-### **Semana 2: Representaciones Semióticas y Circuitos Lógicos**  
-**Fecha:** Lunes 11 de agosto de 2025  
-**Contenidos:**  
-- Teoría de Registros de Representación Semiótica (Duval).  
-- Circuitos eléctricos como representación concreta de lógica (Crocodile Clips).  
-- **Actividad práctica:** Diseño de compuertas AND/OR con circuitos.  
-- **Tarea:** Portafolio digital (GitHub) con ejercicios en Python.  
+### **Módulo 2: Teoría de Conjuntos y Registros Semióticos**  
+*(Semanas 5-8, basado en Capítulos 4-5 del texto guía)*  
+
+| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
+|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
+| **5**      | 1 sep 2025      | - Conjuntos y operaciones (Cap. 4).<br>- Diagramas de Venn (GeoGebra).<br>- Relación lógica-conjuntos. | - **Quiz 3:** Problemas de unión/intersección.<br>- **Práctica:** Diagramas interactivos. |  
+| **6**      | 8 sep 2025      | - Cardinalidad, conjuntos potencia.<br>- Aplicaciones en probabilidad (ejemplos con Python). | - **Práctica:** Código Python para operaciones entre conjuntos. |  
+| **7**      | 15 sep 2025     | - Registros semióticos (Duval): gráfico (GeoGebra), simbólico (Python), concreto (circuitos). | - **ABPP Avance:** Prototipo sistema de riego (lógica + conjuntos). |  
+| **8**      | 22 sep 2025     | - **Parcial 2** (Teoría de conjuntos + registros semióticos).<br>- **Entrega Proyecto 2**: Sistema de riego automatizado. | - Exposición de prototipos. |  
 
 ---
 
-### **Semana 3: Tablas de Verdad y Aplicaciones**  
-**Fecha:** Lunes 18 de agosto de 2025  
-**Contenidos:**  
-- Construcción de tablas de verdad manuales y con Python.  
-- **Actividad ABPP:** Análisis de un problema social usando lógica (ej: optimización de rutas).  
-- **Quiz 2 (30 min):** Tablas de verdad para proposiciones compuestas.  
+### **Módulo 3: Métodos de Demostración y Aplicaciones STEAMS**  
+*(Semanas 9-12, basado en Capítulos 6-7 del texto guía)*  
+
+| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
+|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
+| **9**      | 29 sep 2025     | - Inducción matemática (Cap. 6).<br>- Ejemplos con Python (verificación de patrones). | - **Quiz 4:** Ejercicios de inducción. |  
+| **10**     | 6 oct 2025      | - Reducción al absurdo.<br>- Aplicaciones en algoritmos (ej: búsqueda binaria). | - **Práctica:** Demostraciones con código Python. |  
+| **11**     | 13 oct 2025     | - Integración STEAMS: arte (diseño de circuitos), sociedad (optimización de recursos). | - **Quiz 5:** Casos prácticos interdisciplinares. |  
+| **12**     | 20 oct 2025     | - **Parcial 3** (Métodos de demostración + aplicaciones STEAMS).<br>- **Entrega Proyecto 3**: Informe técnico + código. | - Preparación proyecto final. |  
 
 ---
 
-### **Semana 4: Parcial 1 + Proyecto 1**  
-**Fecha:** Lunes 25 de agosto de 2025  
-**Contenidos:**  
-- **Parcial 1 (2 horas):** Lógica proposicional y circuitos.  
-- **Entrega Proyecto 1 (ABPP):** Prototipo de circuito lógico (simulado o físico) + informe.  
-- Retroalimentación y discusión de proyectos.  
+### **Módulo 4: Proyecto Final y Evaluación Integral**  
+*(Semanas 13-16, integración de contenidos)*  
+
+| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
+|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
+| **13**     | 27 oct 2025     | - Desarrollo de proyecto final (ej: "semáforo inteligente").<br>- Uso de Python, circuitos y GeoGebra. | - **Sesión de mentoría:** Ajustes técnicos. |  
+| **14**     | 3 nov 2025      | - Pruebas y validación de proyectos.<br>- Documentación (LaTeX/Markdown). | - **Quiz 6:** Reflexión sobre aprendizajes. |  
+| **15**     | 17 nov 2025     | - **Parcial 4** (Evaluación integral).<br>- Revisión de portafolios digitales (GitHub). | - **Entrega Proyecto 4:** Versión final. |  
+| **16**     | 24 nov 2025     | - **Exposición Final:** Presentación de proyectos STEAMS ante la comunidad.<br>- Autoevaluación y cierre. | - Rúbricas de evaluación y retroalimentación. |  
 
 ---
 
-### **Semana 5: Teoría de Conjuntos y Diagramas de Venn**  
-**Fecha:** Lunes 1 de septiembre de 2025  
-**Contenidos:**  
-- Operaciones entre conjuntos (unión, intersección, complemento).  
-- **Actividad práctica:** Diagramas interactivos en GeoGebra.  
-- **Quiz 3 (30 min):** Problemas de conjuntos.  
+## **Recursos y Herramientas por Módulo**  
+- **Python:** Librerías `sympy` (lógica), `matplotlib` (gráficos de conjuntos).  
+- **GeoGebra:** Visualización de diagramas de Venn y tablas de verdad.  
+- **Crocodile Clips:** Simulación de circuitos lógicos.  
+- **GitHub:** Portafolio digital con código, informes y documentación.  
 
 ---
 
-### **Semana 6: Relaciones entre Lógica y Conjuntos**  
-**Fecha:** Lunes 8 de septiembre de 2025  
-**Contenidos:**  
-- Correspondencia entre lógica proposicional y teoría de conjuntos.  
-- **Actividad:** Comparación de representaciones (simbólicas en Python vs. gráficas en GeoGebra).  
+## **Alineación con el Texto Guía**  
+| **Módulo**               | **Capítulos del Texto** | **Enfoque Pedagógico**                                  |  
+|---------------------------|-------------------------|---------------------------------------------------------|  
+| Lógica Proposicional      | 1-3                     | ABPP + Registros Semióticos (circuitos, Python).        |  
+| Teoría de Conjuntos       | 4-5                     | STEAMS (GeoGebra + aplicaciones sociales).              |  
+| Métodos de Demostración   | 6-7                     | Integración arte-tecnología (proyectos interdisciplinares). |  
 
----
-
-### **Semana 7: Métodos de Demostración**  
-**Fecha:** Lunes 15 de septiembre de 2025  
-**Contenidos:**  
-- Demostración directa, reducción al absurdo.  
-- **Actividad ABPP:** Diseño de un problema de optimización usando inducción.  
-
----
-
-### **Semana 8: Parcial 2 + Proyecto 2**  
-**Fecha:** Lunes 22 de septiembre de 2025  
-**Contenidos:**  
-- **Parcial 2 (2 horas):** Teoría de conjuntos y métodos de demostración.  
-- **Entrega Proyecto 2 (ABPP):** Sistema de riego automatizado (lógica + Python).  
-
----
-
-### **Semanas 9-16**  
-- **Semana 9:** Lógica en contextos STEAMS (arte y sociedad).  
-- **Semana 10:** Quiz 4 y preparación para Parcial 3.  
-- **Semana 11:** Parcial 3 (aplicaciones avanzadas).  
-- **Semana 12-15:** Desarrollo de Proyecto Final (semáforo inteligente).  
-- **Semana 16:** Exposición final (Proyecto 4) + Autoevaluación.  
-
----
-
-## **Fechas Clave**  
-| **Evaluación**       | **Fecha**               |  
-|-----------------------|-------------------------|  
-| Parcial 1             | 25 de agosto 2025       |  
-| Parcial 2             | 22 de septiembre 2025   |  
-| Parcial 3             | 20 de octubre 2025      |  
-| Parcial 4             | 17 de noviembre 2025    |  
-| Exposición Final      | 24 de noviembre 2025    |  
-
----
-
-## **Notas**  
-- Cada clase combina teoría (1 hora), práctica (2 horas) y evaluación (1 hora, si aplica).  
-- Los proyectos ABPP se desarrollan en equipos con seguimiento semanal.  
-- El repositorio GitHub se actualiza semanalmente con ejemplos y tutoriales.  
-
-**Este cronograma alinea los contenidos del programa adjunto con las 64 horas presenciales, integrando tecnología, ABPP y STEAMS.**
+**Nota:** Cada clase incluye ejemplos prácticos del texto guía, adaptados al enfoque STEAMS y ABPP.
