@@ -4,7 +4,7 @@ Dame, por favor, el diseño de una investigación educativa con metodología de 
 
 ### **Diseño de Investigación Educativa con Metetodología de Investigación Acción Educativa (IAE)**  
 **Título:**  
-*Evaluación de la efectividad de la integración de Aula Invertida, STEAMS y ABPP con herramientas tecnológicas en el aprendizaje de fundamentos de Lógica en estudiantes de Quinto Semestre de la Licenciatura en Matemáticas (Universidad de Antioquia, Campus Caucasia).*
+*Evaluación de la efectividad de la integración de Aula Invertida, STEAMS y ABPP con herramientas tecnológicas en el aprendizaje de fundamentos de Lógica en estudiantes de Quinto Semestre de la [Licenciatura en Matemáticas](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/educacion/oferta-pregrado/licenciatura-matematicas) (Universidad de Antioquia, Campus Caucasia).*
 
 ---
 
