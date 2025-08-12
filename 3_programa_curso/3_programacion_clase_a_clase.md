@@ -90,3 +90,9 @@ Dame el diseño o programación por clases para el curso de fundamentos de la l�
 | Métodos de Demostración   | 6-7                     | Integración arte-tecnología (proyectos interdisciplinares). |  
 
 **Nota:** Cada clase incluye ejemplos prácticos del texto guía, adaptados al enfoque STEAMS y ABPP.
+
+# Cronograma para entrega de proyectos  
+
+1. El proyecto 1 debe ser de aplicaciones concretas o representaciones concretas de la lógica. Sin repetir operador lógico (negación, disyunción, conjunción, implicación, equivalencia, XOR). Este proyecto es el correspondiente a agosto. 
+2. El proyecto 2 debe ser de aplicaciones pictoricas con Crocodile Clips de la lógica. Sin repetir operador lógico (negación, disyunción, conjunción, implicación, equivalencia, XOR). Este es el proyecto de septiembre. 
+3. El proyecto 3 debe ser de presentación de representaciones tabulares de la lógica. Sin repetir operador lógico (negación, disyunción, conjunción, implicación, equivalencia, XOR) usando Geogebra, Excel, Google Sheets, Python. 
