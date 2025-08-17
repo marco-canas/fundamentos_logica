@@ -1,98 +1,126 @@
 # Prompt para el diseño de este cronograma de contenidos en función de la fecha de cada clase  
 
-Dame el diseño o programación por clases para el curso de fundamentos de la lógica para estudiantes de licenciatura en matemáticas de la Facultad de Educación de la Universidad de Antioquia en el Campus Caucasia de acuerdo el programa que te adjunto  y teniendo que el curso es de 64 horas de clase presencial y se realizaran 4 parciales, cada uno de dos horas y se realizaran 6 quices, cada uno de media hora y se empezarán las clases el Lunes 4 de agosto de 2025 en el horario de los lunes de 8 a 12 del medio día. Es decir, te pido el cronograma por fechas y contenidos de cada clase. Así, semanalmente daremos 4 horas de clase, para un total de 16 clases en el semestre. Estos contenidos, los programas de acuerdo a la secuencia de contenidos dada por el texto guía que encuentras en https://ri.ujat.mx/handle/200.500.12107/3942 y al programa que te adjunto. El nombre de este texto guí es "Matemáticas Discretas: una perspectiva funcional con Python 3.x"   
+Dame el diseño o programación por clases para el curso de fundamentos de la lógica para estudiantes de Licenciatura en Matemáticas de la Facultad de Educación de la Universidad de Antioquia en el Campus Caucasia de acuerdo el programa del curso que encuentras en: https://github.com/marco-canas/fundamentos_logica/blob/main/3_programa_curso/2_programa_logica.md, y teniendo que el curso es de 64 horas de clase presencial y se realizaran 4 parciales, cada uno de dos horas y se realizarán 6 quices, cada uno de media hora y se empezarán las clases el Lunes 4 de agosto de 2025 en el horario de los lunes de 8 a 12 del medio día. Es decir, te pido el cronograma por fechas y contenidos de cada clase. Así, semanalmente daremos 4 horas de clase, para un total de 16 clases en el semestre. Estos contenidos, los programas de acuerdo a la secuencia de contenidos dada por el texto guía que encuentras en https://ri.ujat.mx/handle/200.500.12107/3942 y al programa que te adjunto. El nombre de este texto guí es "Matemáticas Discretas: una perspectiva funcional con Python 3.x". Ten en cuenta también para el diseño del cronograma por clase, que en los lunes festivos de Colombia, no se realizará clase.   
 
 
 
-# **Cronograma Detallado del Curso: Fundamentos de Lógica**  
-**Facultad de Educación – Universidad de Antioquia, Campus Caucasia**  
-**Licenciatura en Matemáticas**  
-**Modalidad:** Presencial  
-**Horario:** Lunes 8:00 AM - 12:00 PM (4 horas semanales)  
-**Total horas presenciales:** 64 horas (16 semanas)  
-**Inicio:** Lunes 4 de agosto de 2025  
-**Finalización:** Lunes 24 de noviembre de 2025  
-**Texto guía:** *Matemáticas Discretas: una perspectiva funcional con Python 3.x* ([enlace](https://ri.ujat.mx/handle/200.500.12107/3942))  
+¡Perfecto! Aquí tienes el **cronograma por fechas y contenidos (16 sesiones × 4 h)** para el curso **Fundamentos de la Lógica** (Licenciatura en Matemáticas, U. de Antioquia – Campus Caucasia), **lunes 8:00–12:00**, iniciando el **lunes 4 de agosto de 2025**. He respetado los **lunes festivos de Colombia** (no hay clase esos días) y seguí la **secuencia de contenidos** del programa en tu repositorio y del texto guía *Matemáticas Discretas: una perspectiva funcional con Python 3.x* (Cáceres, 2023). ([GitHub][1], [PCientíficas][2], [Office Holidays][3], [Festivos Colombia][4])
+
+> **Sin clase por festivo (Colombia, 2025):** 18 ago (Asunción), 13 oct (Día de la Raza), 3 nov (Todos los Santos), 17 nov (Independencia de Cartagena), 8 dic (Inmaculada). ([Office Holidays][3], [Festivos Colombia][4])
 
 ---
 
-## **Estructura General**  
-- **16 sesiones** (4 horas cada una, divididas en: 1h teoría, 2h práctica, 1h evaluación/quices).  
-- **4 parciales** (integrados en las clases, 2 horas cada uno).  
-- **6 quices** (30 minutos cada uno, durante las clases).  
-- **4 proyectos ABPP** (alineados con fechas límite del programa adjunto).  
+# Cronograma detallado (64 h)
+
+**S1 — Lun 04/08/2025 (4 h)**
+**Tema:** Presentación del curso; lógica proposicional: sintaxis y semántica.
+**Lecturas:** Programa del curso; Cáceres cap. “Cálculo proposicional” (secciones intro, conectivos). ([GitHub][1], [PCientíficas][2])
+**Actividades:** Diagnóstico, reglas de formación, evaluación de fórmulas; mini-lab en Python (evaluador de fórmulas).
+
+**S2 — Lun 11/08/2025 (4 h)**
+**Tema:** Tablas de verdad; implicación y bicondicional; prioridad de conectivos.
+**Lecturas:** Cáceres, tablas de verdad. ([PCientíficas][2])
+**Evaluación:** **Quiz 1 (30 min)** al inicio.
+**Actividades:** Construcción sistemática de tablas; validación con Python (`itertools`).
+
+**— Lun 18/08/2025: NO HAY CLASE (Asunción de la Virgen)**. ([Office Holidays][3])
+
+**S3 — Lun 25/08/2025 (4 h)**
+**Tema:** Tautologías, contradicciones y contingencias; equivalencias lógicas.
+**Lecturas:** Cáceres, equivalencias; leyes básicas. ([PCientíficas][2])
+**Actividades:** Detección de tautologías con generador de tablas; pruebas por equivalencia.
+
+**S4 — Lun 01/09/2025 (4 h)**
+**Tema:** Leyes de la lógica (De Morgan, idempotencia, absorción); formas normales (CNF/DNF).
+**Evaluación:** **Parcial 1 (2 h)** (proposicional básico).
+**Actividades:** 2 h clase + 2 h examen (al final).
+
+**S5 — Lun 08/09/2025 (4 h)**
+**Tema:** Reglas de inferencia; argumentos válidos; deducción natural (nociones).
+**Evaluación:** **Quiz 2 (30 min)**.
+**Actividades:** Verificación de validez (tablas/derivaciones); verificador con `sympy.logic`.
+
+**S6 — Lun 15/09/2025 (4 h)**
+**Tema:** Cuantificadores ∀, ∃; traducción L1↔lenguaje natural; alcance y ambigüedad.
+**Lecturas:** Cáceres, lógica de predicados (introducción, cuantificación). ([PCientíficas][2])
+**Actividades:** Taller de formalización; negación de cuantificadas.
+
+**S7 — Lun 22/09/2025 (4 h)**
+**Tema:** Reglas con cuantificadores; equivalencias cuantificadas; prenex.
+**Evaluación:** **Quiz 3 (30 min)**.
+**Actividades:** Árboles semánticos a nivel introductorio; ejercicios guiados.
+
+**S8 — Lun 29/09/2025 (4 h)**
+**Tema:** Métodos de demostración: directo, contraposición, contradicción.
+**Evaluación:** **Parcial 2 (2 h)** (predicados + pruebas).
+**Actividades:** 2 h clase + 2 h examen.
+
+**S9 — Lun 06/10/2025 (4 h)**
+**Tema:** Teoría de conjuntos: notación, pertenencia, inclusión, operaciones; leyes de conjuntos.
+**Lecturas:** Cáceres, conjuntos (introducción y operaciones). ([PCientíficas][2])
+**Evaluación:** **Quiz 4 (30 min)**.
+**Actividades:** Pruebas con diagramas de Venn y equivalencias conjuntistas.
+
+**— Lun 13/10/2025: NO HAY CLASE (Día de la Raza)**. ([Office Holidays][3])
+
+**S10 — Lun 20/10/2025 (4 h)**
+**Tema:** Relaciones: propiedades (reflexiva, simétrica, transitiva), relaciones de equivalencia y particiones.
+**Lecturas:** Cáceres, relaciones. ([PCientíficas][2])
+**Actividades:** Demostraciones de propiedades; clases de equivalencia.
+
+**S11 — Lun 27/10/2025 (4 h)**
+**Tema:** Funciones: dominio, codominio, imagen; inyección, sobreyección, biyección; composición e inversa.
+**Evaluación:** **Parcial 3 (2 h)** (conjuntos, relaciones, funciones).
+**Actividades:** 2 h clase + 2 h examen.
+
+**— Lun 03/11/2025: NO HAY CLASE (Todos los Santos)**. ([Office Holidays][3])
+
+**S12 — Lun 10/11/2025 (4 h)**
+**Tema:** Inducción matemática (simple y fuerte); recurrencias muy básicas como aplicación.
+**Evaluación:** **Quiz 5 (30 min)**.
+**Actividades:** Estructura de pruebas por inducción; ejemplos clásicos (sumas, potencias).
+
+**— Lun 17/11/2025: NO HAY CLASE (Independencia de Cartagena)**. ([Office Holidays][3])
+
+**S13 — Lun 24/11/2025 (4 h)**
+**Tema:** Normal forms, resolución proposicional (intro), SAT y validez computacional.
+**Actividades:** Modelado en Python: transformación a CNF con `sympy`, chequeo de satisfacibilidad.
+
+**S14 — Lun 01/12/2025 (4 h)**
+**Tema:** Grafos (nociones): definiciones, grados, caminos, conectividad; aplicaciones a lógica (ciclos de implicaciones).
+**Evaluación:** **Quiz 6 (30 min)**.
+**Lecturas:** Cáceres, teoría de grafos (capítulo introductorio). ([PCientíficas][2])
+
+**— Lun 08/12/2025: NO HAY CLASE (Inmaculada Concepción)**. ([Office Holidays][3])
+
+**S15 — Lun 15/12/2025 (4 h)**
+**Tema:** Integración y repaso general: técnicas de prueba, cuantificadores, conjuntos, funciones, relaciones.
+**Actividades:** Clínica de demostraciones; revisión de parciales y retroalimentación personalizada.
+
+**S16 — Lun 22/12/2025 (4 h)**
+**Tema:** Cierre del curso.
+**Evaluación:** **Parcial 4 (2 h)** (integral); 2 h presentación corta de miniproyectos (lógica + Python) y encuesta de curso.
 
 ---
 
-## **Cronograma por Semanas**  
+## Distribución de evaluaciones
 
-### **Módulo 1: Lógica Proposicional y Representaciones**  
-*(Semanas 1-4, basado en Capítulos 1-3 del texto guía)*  
+* **Parciales (4 × 2 h):** S4 (01/09), S8 (29/09), S11 (27/10), S16 (22/12).
+* **Quices (6 × 30 min):** S2, S5, S7, S9, S12, S14 (al inicio de clase).
+* Todas las evaluaciones se programan **dentro de la franja 8:00–12:00** de cada lunes.
 
-| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **1**      | 4 ago 2025      | - Introducción a la lógica proposicional (Cap. 1).<br>- Conectivos lógicos: ¬, ∧, ∨, →, ↔.<br>- Tablas de verdad (Python: `sympy`). | - **Quiz 1:** Identificación de proposiciones.<br>- **Práctica:** Tablas de verdad en GeoGebra y Python. |  
-| **2**      | 11 ago 2025     | - Equivalencias lógicas (Cap. 2).<br>- Leyes de De Morgan, tautologías.<br>- Circuitos lógicos (Crocodile Clips). | - **Práctica:** Simulación de compuertas AND/OR/NOT.<br>- **Tarea GitHub:** Ejercicios de Lina: Página 44 del PDF y en Python. |  
-| **3**      | 18 ago 2025     | - Argumentos válidos (Cap. 3).<br>- Métodos de demostración: directa, contradicción.<br>- Aplicaciones en problemas sociales. | - **Quiz 2:** Evaluación de argumentos.<br>- **ABPP Inicio:** Diseño de proyecto (ej: semáforo inteligente). |  
-| **4**      | 25 ago 2025     | - **Parcial 1** (Lógica proposicional + circuitos).<br>- **Entrega Proyecto 1**: Circuito lógico funcional (simulado/físico) + informe. | - Retroalimentación y ajustes a proyectos. |  
+## Observaciones
 
----
+* El temario y el orden siguen el **programa del curso** del repositorio y los **capítulos-guía** del libro (proposicional → predicados → conjuntos/relaciones/funciones → inducción → extensión a grafos y herramientas computacionales). ([GitHub][1], [PCientíficas][2])
+* Las fechas **evitan los lunes festivos nacionales**; si la Universidad publica restricciones de cierre de semestre distintas para Campus Caucasia, ajusta S15–S16 según el **calendario académico 2025-2** institucional. ([udea.edu.co][5])
 
-### **Módulo 2: Teoría de Conjuntos y Registros Semióticos**  
-*(Semanas 5-8, basado en Capítulos 4-5 del texto guía)*  
+¿Quieres que te entregue esto en **formato calendario (CSV/ICS)** o como **plan semanal imprimible (PDF/Word)** con columnas de metas, lecturas y tareas por sesión? Puedo generarlo al formato que prefieras.
 
-| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **5**      | 1 sep 2025      | - Conjuntos y operaciones (Cap. 4).<br>- Diagramas de Venn (GeoGebra).<br>- Relación lógica-conjuntos. | - **Quiz 3:** Problemas de unión/intersección.<br>- **Práctica:** Diagramas interactivos. |  
-| **6**      | 8 sep 2025      | - Cardinalidad, conjuntos potencia.<br>- Aplicaciones en probabilidad (ejemplos con Python). | - **Práctica:** Código Python para operaciones entre conjuntos. |  
-| **7**      | 15 sep 2025     | - Registros semióticos (Duval): gráfico (GeoGebra), simbólico (Python), concreto (circuitos). | - **ABPP Avance:** Prototipo sistema de riego (lógica + conjuntos). |  
-| **8**      | 22 sep 2025     | - **Parcial 2** (Teoría de conjuntos + registros semióticos).<br>- **Entrega Proyecto 2**: Sistema de riego automatizado. | - Exposición de prototipos. |  
-
----
-
-### **Módulo 3: Métodos de Demostración y Aplicaciones STEAMS**  
-*(Semanas 9-12, basado en Capítulos 6-7 del texto guía)*  
-
-| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **9**      | 29 sep 2025     | - Inducción matemática (Cap. 6).<br>- Ejemplos con Python (verificación de patrones). | - **Quiz 4:** Ejercicios de inducción. |  
-| **10**     | 6 oct 2025      | - Reducción al absurdo.<br>- Aplicaciones en algoritmos (ej: búsqueda binaria). | - **Práctica:** Demostraciones con código Python. |  
-| **11**     | 13 oct 2025     | - Integración STEAMS: arte (diseño de circuitos), sociedad (optimización de recursos). | - **Quiz 5:** Casos prácticos interdisciplinares. |  
-| **12**     | 20 oct 2025     | - **Parcial 3** (Métodos de demostración + aplicaciones STEAMS).<br>- **Entrega Proyecto 3**: Informe técnico + código. | - Preparación proyecto final. |  
-
----
-
-### **Módulo 4: Proyecto Final y Evaluación Integral**  
-*(Semanas 13-16, integración de contenidos)*  
-
-| **Semana** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|------------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **13**     | 27 oct 2025     | - Desarrollo de proyecto final (ej: "semáforo inteligente").<br>- Uso de Python, circuitos y GeoGebra. | - **Sesión de mentoría:** Ajustes técnicos. |  
-| **14**     | 3 nov 2025      | - Pruebas y validación de proyectos.<br>- Documentación (LaTeX/Markdown). | - **Quiz 6:** Reflexión sobre aprendizajes. |  
-| **15**     | 17 nov 2025     | - **Parcial 4** (Evaluación integral).<br>- Revisión de portafolios digitales (GitHub). | - **Entrega Proyecto 4:** Versión final. |  
-| **16**     | 24 nov 2025     | - **Exposición Final:** Presentación de proyectos STEAMS ante la comunidad.<br>- Autoevaluación y cierre. | - Rúbricas de evaluación y retroalimentación. |  
-
----
-
-## **Recursos y Herramientas por Módulo**  
-- **Python:** Librerías `sympy` (lógica), `matplotlib` (gráficos de conjuntos).  
-- **GeoGebra:** Visualización de diagramas de Venn y tablas de verdad.  
-- **Crocodile Clips:** Simulación de circuitos lógicos.  
-- **GitHub:** Portafolio digital con código, informes y documentación.  
-
----
-
-## **Alineación con el Texto Guía**  
-| **Módulo**               | **Capítulos del Texto** | **Enfoque Pedagógico**                                  |  
-|---------------------------|-------------------------|---------------------------------------------------------|  
-| Lógica Proposicional      | 1-3                     | ABPP + Registros Semióticos (circuitos, Python).        |  
-| Teoría de Conjuntos       | 4-5                     | STEAMS (GeoGebra + aplicaciones sociales).              |  
-| Métodos de Demostración   | 6-7                     | Integración arte-tecnología (proyectos interdisciplinares). |  
-
-**Nota:** Cada clase incluye ejemplos prácticos del texto guía, adaptados al enfoque STEAMS y ABPP.
-
-# Cronograma para entrega de proyectos  
-
-1. El proyecto 1 debe ser de aplicaciones concretas o representaciones concretas de la lógica. Sin repetir operador lógico (negación, disyunción, conjunción, implicación, equivalencia, XOR). Este proyecto es el correspondiente a agosto. 
-2. El proyecto 2 debe ser de aplicaciones pictoricas con Crocodile Clips de la lógica. Sin repetir operador lógico (negación, disyunción, conjunción, implicación, equivalencia, XOR). Este es el proyecto de septiembre. 
-3. El proyecto 3 debe ser de presentación de representaciones tabulares de la lógica. Sin repetir operador lógico (negación, disyunción, conjunción, implicación, equivalencia, XOR) usando Geogebra, Excel, Google Sheets, Python. 
+[1]: https://github.com/marco-canas/fundamentos_logica "GitHub - marco-canas/fundamentos_logica: Pensar la didáctica y la pedagogía de la lógica para formación de Administradores de empresas, Ingenieros Agorpecuarios y Licenciados en educación infantil y matemáticas en el Campus Caucasia de la Universidad de Antioquia"
+[2]: https://pcientificas.ujat.mx/index.php/pcientificas/catalog/book/263 "
+		Matemáticas Discretas: una perspectiva funcional con Python 3.x
+							\| Universidad Juárez Autónoma de Tabasco
+			"
+[3]: https://www.officeholidays.com/countries/colombia/2025?utm_source=chatgpt.com "National Holidays in Colombia in 2025"
+[4]: https://www.festivos.com.co/en/2025?utm_source=chatgpt.com "Public Holidays Colombia 2025 | festivos.com.co"
+[5]: https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/comunicaciones/%21ut/p/z1/jZDLCsIwEEW_pV-QyattliENJW1JE7EPs5GuSkGrC_H7FXGjYOzsBs65M1wU0IjCOt2Xebotl3U6PfdDSI_Wc42Jgqasdgo8o30PQhgpKRpeQC4UwZJBAzXmIL12dt8qV1QEhS0-_BgJ2_wIEOLxAwqfJ3LKOHioC5IKTIzNvoHWUA1eWO5oaQjL6BuIdfDvi-u560ZYzCyT5AEApI5K/?1dmy=&page=udea.generales.interna&urile=wcm%3Apath%3A%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FUnidades%2BAcad%2521c3%2521a9micas%2FComunicaciones%2FasContenidos%2FasListado%2FCalendario-Academico-2025-2-de-Pregrados-Campus-regionalizados&utm_source=chatgpt.com "Calendario Académico 2025-2 de Pregrados - Campus ..."
