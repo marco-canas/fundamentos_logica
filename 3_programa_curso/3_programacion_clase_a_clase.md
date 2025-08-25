@@ -15,7 +15,7 @@ Dame el diseño o programación por clases para el curso de fundamentos de la l�
 **S1 — Lun 04/08/2025 (4 h)**
 **Tema:** Presentación del curso; lógica proposicional: sintaxis y semántica.
 **Lecturas:** Programa del curso; Cáceres cap. “Cálculo proposicional” (secciones intro, conectivos). ([GitHub][1], [PCientíficas][2])
-**Actividades:** Diagnóstico, reglas de formación, evaluación de fórmulas; mini-lab en Python (evaluador de fórmulas).
+**Actividades:** Diagnóstico, reglas de formación, evaluación de fórmulas; mini-lab en Excel, la hoja de Cálculo de GeoGebra, Python (evaluador de fórmulas).
 
 **S2 — Lun 11/08/2025 (4 h)**
 **Tema:** Tablas de verdad; implicación y bicondicional; prioridad de conectivos.
@@ -103,11 +103,27 @@ Dame el diseño o programación por clases para el curso de fundamentos de la l�
 
 ---
 
+# Objetivos de aprendizaje por sesión
+
+1. Saber pasar del lenguaje Natural al lenguaje Simbólico y viceversa. 
+
 ## Distribución de evaluaciones
 
-* **Parciales (4 × 2 h):** S4 (01/09), S8 (29/09), S11 (27/10), S16 (22/12).
+* **Parciales (4 × 2 h):** S4 (01/09), S8 (29/09), S11 (27/10), S16 (22/11).
 * **Quices (6 × 30 min):** S2, S5, S7, S9, S12, S14 (al inicio de clase).
 * Todas las evaluaciones se programan **dentro de la franja 8:00–12:00** de cada lunes.
+* Proyectos
+   - Proyecto 1 Agosto: representaciones concretas de las proposiciones  
+     lógicas 
+   - Proyecto 2 Septiembre: representaciones pictórica en circuitos eléctricos, de las proposiciones lógicas. 
+   - Proyecto 3: Representaciones simbólicas con compuertas lógicas. 
+   - Proyecto 4 Representaciones simbólicas con GeoGebra o Excel.   
+  
+
+
+# Descripción de las tareas y actividades  
+
+
 
 ## Observaciones
 
