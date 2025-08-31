@@ -4,7 +4,7 @@ Dame el diseño o programación por clases para el curso de fundamentos de la l�
 
 
 
-¡Perfecto! Aquí tienes el **cronograma por fechas y contenidos (16 sesiones × 4 h)** para el curso **Fundamentos de la Lógica** (Licenciatura en Matemáticas, U. de Antioquia – Campus Caucasia), **lunes 8:00–12:00**, iniciando el **lunes 4 de agosto de 2025**. He respetado los **lunes festivos de Colombia** (no hay clase esos días) y seguí la **secuencia de contenidos** del programa en tu repositorio y del texto guía *Matemáticas Discretas: una perspectiva funcional con Python 3.x* (Cáceres, 2023). ([GitHub][1], [PCientíficas][2], [Office Holidays][3], [Festivos Colombia][4])
+Este es el **cronograma por fechas y contenidos (16 sesiones × 4 h)** para el curso **Fundamentos de la Lógica** (Licenciatura en Matemáticas, U. de Antioquia – Campus Caucasia), **lunes 8:00–12:00**, iniciando el **lunes 4 de agosto de 2025**. He respetado los **lunes festivos de Colombia** (no hay clase esos días) y seguí la **secuencia de contenidos** del programa en tu repositorio y del texto guía *Matemáticas Discretas: una perspectiva funcional con Python 3.x* (Cáceres, 2023). ([GitHub][1], [PCientíficas][2], [Office Holidays][3], [Festivos Colombia][4])
 
 > **Sin clase por festivo (Colombia, 2025):** 18 ago (Asunción), 13 oct (Día de la Raza), 3 nov (Todos los Santos), 17 nov (Independencia de Cartagena), 8 dic (Inmaculada). ([Office Holidays][3], [Festivos Colombia][4])
 
