@@ -100,4 +100,10 @@ Bombillo = S1 ↔ S2.
 
 ---
 
+# Cómo elegir el proyecto por mes. 
+
+1. El proyecto se realiza induvidual o en parejas.
+2. Debe elegir un solo operador lógico por proyecto y no debe haber dos equipos con el mismo operador lógico elegido. Por favor, publicar en https://github.com/marco-canas/fundamentos_logica/discussions/new?category=announcements.
+
+
 ¿Quieres que te organice estas situaciones en **forma de taller guía para los estudiantes** (con tablas de verdad, preguntas y actividades de construcción) para que se pueda aplicar directamente en el aula?
