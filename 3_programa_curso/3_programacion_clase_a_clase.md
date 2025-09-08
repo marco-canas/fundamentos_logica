@@ -37,13 +37,13 @@ Este es el **cronograma por fechas y contenidos (16 sesiones × 4 h)** para el c
 
 **S5 — Lun 08/09/2025 (4 h)**
 **Tema:** Reglas de inferencia; argumentos válidos; deducción natural (nociones).
-**Evaluación:** **Quiz 2 (30 min)**.
+**Evaluación:** 
 **Actividades:** Verificación de validez (tablas/derivaciones); verificador con `sympy.logic`.
 
 **S6 — Lun 15/09/2025 (4 h)**
 **Tema:** Cuantificadores ∀, ∃; traducción L1↔lenguaje natural; alcance y ambigüedad.
 **Lecturas:** Cáceres, lógica de predicados (introducción, cuantificación). ([PCientíficas][2])
-**Actividades:** Taller de formalización; negación de cuantificadas.
+**Actividades:** Taller de formalización; negación de cuantificadas. **Quiz 2 (30 min)**.
 
 **S7 — Lun 22/09/2025 (4 h)**
 **Tema:** Reglas con cuantificadores; equivalencias cuantificadas; prenex.
