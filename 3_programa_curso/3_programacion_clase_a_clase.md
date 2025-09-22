@@ -12,7 +12,7 @@ Muy bien, Marco. Te corrijo el **cronograma** teniendo en cuenta que:
 
 ---
 
-# 📅 Cronograma corregido (64 h)
+# Cronograma corregido (64 h)
 
 **S1 — Lun 04/08/2025 (4 h)**
 **Tema:** Presentación del curso; lógica proposicional: sintaxis y semántica.
@@ -36,11 +36,11 @@ Muy bien, Marco. Te corrijo el **cronograma** teniendo en cuenta que:
 **S6 — Lun 15/09/2025 (4 h)**
 **Tema:** Reglas de inferencia (continuación) + argumentos válidos; deducción natural (nociones).
 **Actividades:** Taller de validez con `sympy.logic`.
-**Evaluación:** **Quiz 2 (30 min)**.
+**Evaluación:** **Quiz 1 (30 min)**.
 
 **S7 — Lun 22/09/2025 (4 h)**
 **Tema:** Cuantificadores ∀, ∃; traducción L1↔lenguaje natural; alcance y ambigüedad.
-**Evaluación:** **Quiz 3 (30 min)**.
+**Evaluación:** **Quiz 2 (30 min)**.
 
 **S8 — Lun 29/09/2025 (4 h)**
 **Tema:** Reglas con cuantificadores; equivalencias cuantificadas; prenex.
