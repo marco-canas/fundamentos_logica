@@ -48,12 +48,12 @@ Muy bien, Marco. Te corrijo el **cronograma** teniendo en cuenta que:
 
 **S9 — Lun 06/10/2025 (4 h)**
 **Tema:** Métodos de demostración: directo, contraposición, contradicción.
-**Evaluación:** **Quiz 4 (30 min)**.
+**Evaluación:** **Quiz 3 (30 min)**.
 
 **— Lun 13/10/2025: NO HAY CLASE (Día de la Raza).**
 
 **S10 — Lun 20/10/2025 (4 h)**
-**Tema:** Teoría de conjuntos: notación, pertenencia, inclusión, operaciones; leyes de conjuntos.
+**Tema:** Teoría de conjuntos: notación, pertenencia, inclusión, operaciones; leyes de conjuntos. Quiz 4. 
 
 **S11 — Lun 27/10/2025 (4 h)**
 **Tema:** Relaciones: propiedades, relaciones de equivalencia, particiones.
