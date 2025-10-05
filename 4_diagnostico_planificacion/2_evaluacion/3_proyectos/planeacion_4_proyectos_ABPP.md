@@ -93,7 +93,7 @@ Bombillo = S1 ↔ S2.
 
 # Secuencia de proyectos por mes
 
-* **Proyecto 1 (Agosto):** los estudiantes fabrican maquetas con interruptores y bombillos reales para representar cada caso.
+* **Proyecto 1 (Agosto):** los estudiantes, partiendo de una situación problemática real, fabrican maquetas con interruptores y bombillos reales para representar cada caso.
 * **Proyecto 2 (Septiembre):** los mismos casos se llevan a esquemas pictóricos de **circuitos eléctricos** (serie, paralelo, conmutadores). Este se realiza con el simulador Crocodile Clips
 * **Proyecto 3: (Octubre)** traducción a **compuertas lógicas simbólicas** (AND, OR, NOT, XOR, XNOR, etc.). Este se realiza con el simulador Crocodile Clips
 * **Proyecto 4:(Noviembre)** implementación en **GeoGebra o Excel** usando tablas de verdad dinámicas y gráficos de encendido/apagado.
