@@ -91,7 +91,7 @@ Bombillo = S1 ↔ S2.
 
 ---
 
-# Relación con los proyectos
+# Secuencia de proyectos por mes
 
 * **Proyecto 1 (Agosto):** los estudiantes fabrican maquetas con interruptores y bombillos reales para representar cada caso.
 * **Proyecto 2 (Septiembre):** los mismos casos se llevan a esquemas pictóricos de **circuitos eléctricos** (serie, paralelo, conmutadores).
