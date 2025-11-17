@@ -105,5 +105,7 @@ Bombillo = S1 ↔ S2.
 1. El proyecto se realiza induvidual o en parejas.
 2. Debe elegir un solo operador lógico por proyecto y no debe haber dos equipos con el mismo operador lógico elegido. Por favor, publicar en https://github.com/marco-canas/fundamentos_logica/discussions/new?category=announcements.
 
+# Compromiso del profesor con todo el grupo para el 18 de Noviembre  
 
-¿Quieres que te organice estas situaciones en **forma de taller guía para los estudiantes** (con tablas de verdad, preguntas y actividades de construcción) para que se pueda aplicar directamente en el aula?
+
+Quedo comprometido a mandarles mañana un video donde muestre los tres elementos que todos debemos mostrar con cada uno de los proyectos. Los elementos son: 1. Situación real problema, 2. El circuito lógico electrico que la resuelve y 3. La tabla de verdad de la proposición lógica asociada al problema. 

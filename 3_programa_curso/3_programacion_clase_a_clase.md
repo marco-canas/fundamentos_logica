@@ -40,14 +40,14 @@ Muy bien, Marco. Te corrijo el **cronograma** teniendo en cuenta que:
 
 
 
-**S7 — Lun 17/11/2025 (2 h)**
+**S13 — Lun 17/11/2025 (2 h)**
 **Tema:** Métodos Indirectos de Demostración. Reducción al absurdo y Contrarrecíproco. 
 **Evaluación:** **No se realiza evaluación el día de hoy**.
 
 
 
 
-**S8 — Lun 29/09/2025 (4 h)**
+**S14 — Lun 29/09/2025 (4 h)**
 **Tema:** Reglas con cuantificadores; equivalencias cuantificadas; prenex.
 **Evaluación:** **Parcial 2 (2 h)**.
 
