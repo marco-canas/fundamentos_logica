@@ -38,9 +38,14 @@ Muy bien, Marco. Te corrijo el **cronograma** teniendo en cuenta que:
 **Actividades:** Taller de validez con `sympy.logic`.
 **Evaluación:** **Quiz 1 (30 min)**.
 
-**S7 — Lun 22/09/2025 (4 h)**
-**Tema:** Cuantificadores ∀, ∃; traducción L1↔lenguaje natural; alcance y ambigüedad.
-**Evaluación:** **Quiz 2 (30 min)**.
+
+
+**S7 — Lun 17/11/2025 (2 h)**
+**Tema:** Métodos Indirectos de Demostración. Reducción al absurdo y Contrarrecíproco. 
+**Evaluación:** **No se realiza evaluación el día de hoy**.
+
+
+
 
 **S8 — Lun 29/09/2025 (4 h)**
 **Tema:** Reglas con cuantificadores; equivalencias cuantificadas; prenex.
