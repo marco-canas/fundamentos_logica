@@ -11,7 +11,7 @@ Dame un diseño de programa de curso para "Fundamentos de Lógica", de la Facult
 **Modalidad:** Presencial  
 **Créditos:** 3  
 **Horas semanales:** 9 (5 horas presenciales + 4 horas independientes)  
-
+Código del curso: 2096532
 ---
 
 ### **1. Información General**  
