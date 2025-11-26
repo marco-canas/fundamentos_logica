@@ -1,6 +1,6 @@
 
 
-# Plan de la secuencia de proyectos ABPP para fundamentos de Lógica (2025-2)  
+# [Plan de la secuencia de proyectos ABPP para fundamentos de Lógica (2025-2)](https://www.youtube.com/watch?v=5iFvjAP2ilE)  
 
 Propongo una serie de **situaciones problemáticas** que se pueden articular con los cuatro proyectos del curso de **Fundamentos de Lógica**, y que hacen evidente la utilidad de los **operadores lógicos** en el **control de un bombillo con uno o dos suiches**.
 
@@ -8,7 +8,7 @@ Propongo una serie de **situaciones problemáticas** que se pueden articular con
 
 # Situaciones problemáticas de control de un bombillo
 
-## 🔹 1. Negación (¬p)
+# 1. Negación (¬p)
 
 **Situación:**
 En una casa se quiere que el bombillo **esté encendido solamente cuando el interruptor esté apagado**.
@@ -22,7 +22,7 @@ Bombillo = ¬S (no del estado del interruptor).
 
 ---
 
-## 🔹 2. Conjunción (p ∧ q)
+# 2. Conjunción (p ∧ q)
 
 **Situación:**
 Dos compañeros de cuarto desean que el bombillo del estudio **solo se encienda si ambos suiches están encendidos**.
@@ -63,7 +63,7 @@ Bombillo = S1 ⊕ S2.
 
 ---
 
-## 🔹 5. Implicación (p → q)
+# 5. Implicación (p → q)
 
 **Situación:**
 En un taller, un bombillo de advertencia debe encenderse **solo si se acciona el interruptor principal, pero no debe encenderse si este está apagado**.
@@ -108,4 +108,4 @@ Bombillo = S1 ↔ S2.
 # Compromiso del profesor con todo el grupo para el 18 de Noviembre  
 
 
-Quedo comprometido a mandarles mañana un video donde muestre los tres elementos que todos debemos mostrar con cada uno de los proyectos. Los elementos son: 1. Situación real problema, 2. El circuito lógico electrico que la resuelve y 3. La tabla de verdad de la proposición lógica asociada al problema. 
+Quedo comprometido a mandarles mañana un [video donde muestre los tres elementos que todos debemos mostrar con cada uno de los proyectos](https://www.youtube.com/watch?v=5iFvjAP2ilE). Los elementos son: 1. Situación real problema, 2. El circuito lógico electrico que la resuelve y 3. La tabla de verdad de la proposición lógica asociada al problema. 
